@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.routes__wrapper {
+  display:flexbox;
+  text-align: center;
+  justify-content: center;
+}
